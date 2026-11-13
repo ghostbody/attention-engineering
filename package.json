@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "awesome-lint",
+    "sync": "node scripts/sync-catalog.mjs",
+    "check": "node scripts/sync-catalog.mjs --check"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.3.0"
+  }
+}
