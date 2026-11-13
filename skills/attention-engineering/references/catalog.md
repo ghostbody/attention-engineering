@@ -53,6 +53,7 @@
 - [marker](https://github.com/datalab-to/marker) - Converts PDFs to clean Markdown at high accuracy, making a long report queryable in one pass.
 - [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - Fetches a page as Markdown for an agent, replacing a browse and copy cycle.
 - [简悦 SimpRead](https://github.com/Kenshin/simpread) - Strips page chrome into a clean reading view, removing the scan past navigation and ads.
+- [DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp) - Answers questions about a public repository with cited wiki content, so a person skips cloning and reading the source.
 
 ## Triage: Rank, Dedupe, Batch
 
@@ -66,6 +67,7 @@
 - [Notification settings on iPhone](https://support.apple.com/guide/iphone/iph7c3d96bab/ios) - Groups and schedules alerts into summaries, moving most pings out of the current moment.
 - [Notification Cooldown](https://www.androidauthority.com/android-16-notification-cooldown-3501276/) - Suppresses repeated alerts from the same app, cutting a burst down to its first useful signal.
 - [信息过载时代，我的漏斗式阅读工作流](https://sspai.com/post/107554) - Deduplicates, summarizes, and ranks feeds before human review, so only survivors reach the reader.
+- [Octobox](https://octobox.io) - Adds archive and filter states to GitHub notifications, so an inbox is cleared in batches instead of one thread at a time.
 
 ## Maps & Progressive Disclosure
 
@@ -77,6 +79,7 @@
 - [Designing and Evaluating Glanceable Peripheral Displays](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-56.pdf) - Establishes how a glance can carry status without a task switch.
 - [Ambient Displays](https://doi.org/10.1007/3-540-69706-3_4) - Shows how light and sound carry information at the edge of attention.
 - [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Loads skill metadata first and bodies on demand, keeping the prompt to the relevant slice.
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns a codebase into a searchable knowledge graph, so orientation starts from one map instead of a file-by-file crawl.
 
 ## Calm & Focus
 

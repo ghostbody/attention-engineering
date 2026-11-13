@@ -86,6 +86,7 @@ npx skills add ghostbody/attention-engineering --skill attention-engineering -y
 - [marker](https://github.com/datalab-to/marker) - 高准确率地把 PDF 转成干净的 Markdown，长报告一遍就能查询。
 - [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 为 agent 把网页抓成 Markdown，替代「浏览再复制」的循环。
 - [简悦 SimpRead](https://github.com/Kenshin/simpread) - 去掉页面外壳，得到干净的阅读视图，不用先扫过导航和广告。
+- [DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp) - 用带引用的 wiki 内容回答公开仓库的问题，不必克隆后通读源码。
 
 ## 分诊：排序、去重、分批
 
@@ -101,6 +102,7 @@ npx skills add ghostbody/attention-engineering --skill attention-engineering -y
 - [Notification settings on iPhone](https://support.apple.com/guide/iphone/iph7c3d96bab/ios) - 把提醒归组、定时汇总成摘要，大部分提示被移出当下这一刻。
 - [Notification Cooldown](https://www.androidauthority.com/android-16-notification-cooldown-3501276/) - 压制同一应用反复发出的提醒，把一阵轰炸收到第一个有用信号。
 - [信息过载时代，我的漏斗式阅读工作流](https://sspai.com/post/107554) - 先对订阅源去重、摘要、排序，再交人看，只有活下来的才到读者眼前。
+- [Octobox](https://octobox.io) - 给 GitHub 通知加上归档和筛选状态，收件箱可以批量清空，而不是逐个线程打开。
 
 ## 地图与渐进呈现
 
@@ -114,6 +116,7 @@ npx skills add ghostbody/attention-engineering --skill attention-engineering -y
 - [Designing and Evaluating Glanceable Peripheral Displays](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-56.pdf) - 确立「一瞥」如何在不切换任务的情况下承载状态。
 - [Ambient Displays](https://doi.org/10.1007/3-540-69706-3_4) - 说明光和声如何在注意力边缘传递信息。
 - [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - 先加载技能元数据、正文按需加载，提示词里只留相关的那一片。
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - 把代码库变成可搜索的知识图谱，认路从一张地图开始，而不是逐个文件翻。
 
 ## 平静与专注
 
