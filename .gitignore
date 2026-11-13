@@ -1,3 +1,7 @@
 research/
 .DS_Store
 node_modules/
+.agents/
+.claude/
+.serena/
+skills-lock.json
