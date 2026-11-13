@@ -4,6 +4,8 @@
 
 Attention engineering is the design of AI systems and information flows so that human attention goes only to the decisions and blockers that need it. AI has made generation nearly free while the cost of reviewing what it generates has not fallen, so the bottleneck moved from production to judgment. Every resource here removes a measurable slice of that load: fewer pages read, fewer diffs reviewed line by line, fewer clicks, fewer waits, fewer interruptions. We list only resources that make people read less, watch less, click less, or wait less.
 
+> 中文版：[README.zh-CN.md](README.zh-CN.md)
+
 ## Contents
 
 - [Foundations & Reading](#foundations--reading)
