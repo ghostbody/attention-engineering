@@ -1,5 +1,11 @@
 # Attention Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+```bash
+npx skills add ghostbody/attention-engineering --skill attention-engineering -y
+```
+
+**TL;DR** — Install the skill above and ask your agent. It answers from this list's principles and catalog, so you never read this repository. Everything below is for humans who want to browse or contribute. 126 resources, 9 categories, one instruction: keep the attention of the person reading the output.
+
 <img src="assets/banner.svg" alt="Attention Engineering — In the AI era, save your scarcest resource." width="100%">
 
 Attention engineering is the design of AI systems and information flows so that human attention goes only to the decisions and blockers that need it. AI has made generation nearly free while the cost of reviewing what it generates has not fallen, so the bottleneck moved from production to judgment. Every resource here removes a measurable slice of that load: fewer pages read, fewer diffs reviewed line by line, fewer clicks, fewer waits, fewer interruptions. We list only resources that make people read less, watch less, click less, or wait less.

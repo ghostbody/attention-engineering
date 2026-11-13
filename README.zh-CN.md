@@ -2,6 +2,12 @@
 
 # 注意力工程（Attention Engineering） [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+```bash
+npx skills add ghostbody/attention-engineering --skill attention-engineering -y
+```
+
+**TL;DR** —— 装上面这个 skill，直接问你的 agent。它自带本列表的原则与目录，你不需要读这个仓库。下面的一切是给想浏览或贡献的人看的。126 条资源，9 个分类，一句话：把读者的注意力当预算。
+
 <img src="assets/banner.svg" alt="Attention Engineering — 在 AI 时代，节省你最珍贵的资源" width="100%">
 
 注意力工程（attention engineering）指设计 AI 系统和信息流，让人的注意力只花在真正需要它的决策和卡点上。AI 让生成几乎免费，而审查生成内容的成本并没有下降，瓶颈因此从生产移到了判断。这里每一条资源都从这份负荷里削掉可度量的一块：少读几页、少逐行看几个 diff、少几次点击、少几次等待、少几次被打断。我们只收录让人读得更少、看得更少、点得更少、等得更少的资源。
